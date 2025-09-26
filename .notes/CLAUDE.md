@@ -44,7 +44,7 @@ python reindex.py
 
 - `scripts/` - Core Python modules (index_summaries.py, memory_search.py, health_check.py)
 - `claude-integration/` - Claude Code integration files
-- `claude_summaries/` - Directory for Claude session summaries
+- `~/.claude/compacted-summaries/` - Directory where Claude session summaries are stored
 - `docs/` - Documentation and troubleshooting guides
 
 ## Development Notes

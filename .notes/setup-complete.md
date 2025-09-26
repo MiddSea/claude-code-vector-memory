@@ -47,6 +47,8 @@ claude-code-vector-memory/
 
 1. **Index Your Summaries**
 
+   Summaries are read from: `~/.claude/compacted-summaries/`
+
    ```bash
    source venv/bin/activate
    python reindex.py
